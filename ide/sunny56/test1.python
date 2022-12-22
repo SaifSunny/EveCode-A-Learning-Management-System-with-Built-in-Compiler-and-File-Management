@@ -1,0 +1,4 @@
+#Start Writing your Code
+
+for x in range(6):
+  print(x)
