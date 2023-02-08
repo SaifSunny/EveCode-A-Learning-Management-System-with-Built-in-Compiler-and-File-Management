@@ -42,9 +42,6 @@ If you want to contribute to the development of EveCode, here's what you need to
 - Commit the changes and push them to your forked repository.
 - Create a pull request to the original repository for review.
 
-## License
-
-EveCode is open-source software licensed under the MIT License. Please see the LICENSE file for details.
 
 ## Credits and Acknowledgements
 
@@ -53,6 +50,10 @@ EveCode was a graduation project for the completion of my BSc in Computer Scienc
 ## Screenshots
 
 View full document with screenshots [Evecode Project Report.docx](https://github.com/SaifSunny/CodeEve-Your-Learning-Management-System-with-Built-in-Compiler-and-File-Management/files/10683459/Evecode.Project.Report.docx)
+
+## License
+
+EveCode is open-source software licensed under the MIT License. Please see the LICENSE file for details.
 
 ## Contact information
 
