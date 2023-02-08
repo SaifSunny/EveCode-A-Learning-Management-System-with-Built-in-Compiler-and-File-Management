@@ -52,7 +52,7 @@ EveCode was a graduation project for the completion of my BSc in Computer Scienc
 
 ## Screenshots
 
-View full document with screenshots at https://docs.google.com/document/d/1XaVg81JiZpzFkA-LNCIu1s05gjIUpANc/edit?usp=share\_link&ouid=106576190935206185551&rtpof=true&sd=true
+View full document with screenshots [Evecode Project Report.docx](https://github.com/SaifSunny/CodeEve-Your-Learning-Management-System-with-Built-in-Compiler-and-File-Management/files/10683459/Evecode.Project.Report.docx)
 
 ## Contact information
 
