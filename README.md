@@ -48,6 +48,13 @@ If you want to contribute to the development of EveCode, here's what you need to
 EveCode was a graduation project for the completion of my BSc in Computer Science at the University of Liberal Arts Bangladesh. It was a passion project that required the support of many individuals to make it a reality. I would like to express my gratitude to the following people: My professors Dr. Farhana Sarker at the University of Liberal Arts Bangladesh who provided guidance and support throughout the project. Finally, My family and friends for their encouragement and support.
 
 ## Screenshots
+![1](https://user-images.githubusercontent.com/72490093/218299303-64172fe9-4096-4df0-93a9-38c261d4c370.png)
+![2](https://user-images.githubusercontent.com/72490093/218299310-b8c14ddf-32a9-458c-a8a9-891736e9a26a.png)
+![3](https://user-images.githubusercontent.com/72490093/218299314-fca23532-bc6c-491d-809b-0ac04f893c86.png)
+![4](https://user-images.githubusercontent.com/72490093/218299316-eb628e35-a9a5-4f54-8642-aacb0bbd0e8f.png)
+![5](https://user-images.githubusercontent.com/72490093/218299318-c6760954-fea4-45a5-a610-1aa376f866d2.png)
+![6](https://user-images.githubusercontent.com/72490093/218299319-0d968eb6-8998-4a25-9a71-b088e391192f.png)
+![7](https://user-images.githubusercontent.com/72490093/218299321-8b6c42de-4ce1-4347-8c6f-9d0e9f5cc4ec.png)
 
 View full document with screenshots [Evecode Project Report.docx](https://github.com/SaifSunny/CodeEve-Your-Learning-Management-System-with-Built-in-Compiler-and-File-Management/files/10683459/Evecode.Project.Report.docx)
 
